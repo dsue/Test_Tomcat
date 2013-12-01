@@ -1,0 +1,13 @@
+@CHARSET "Shift_JIS";
+
+form {
+	background-image: url("img/bg.jpg");
+	/* 	background-color: blue;*/
+	opacity: 0.9;
+}
+
+p {
+	border-style: solid;
+	margin-top:10px;
+	color: red;
+}
